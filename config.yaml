@@ -1,0 +1,9 @@
+
+api port: 8888
+linx:
+  host: "" #10.15.280.40
+  port: 1433
+  username: "" #example@gmail.com 
+  password: "" #example123@
+  db: "" # Table_Name
+
